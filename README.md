@@ -4,4 +4,6 @@ Just a playground to for my learning of Python. Mostly just playing around with 
 
 * **Unique Words Count**: counts the unique words in a text file ignoring case and punctuation.
 
-* **scope**: checking out function scope in python.
+* **Scope**: checking out function scope in python.
+
+* **Files**: checking out OS Module.
